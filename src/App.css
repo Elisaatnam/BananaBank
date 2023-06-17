@@ -20,7 +20,7 @@
 
 #root {
 	font-family: sans-serif;
-	background: url(./bananatree.jpg) no-repeat center;
+	background: url(./assets/img/bananatree.jpg) no-repeat center;
 	background-size: cover;
 	border-radius: 0;
 	min-height: 100vh;

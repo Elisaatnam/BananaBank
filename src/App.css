@@ -1,0 +1,36 @@
+@font-face {
+	font-family: Banaan;
+	src: url(../src/assets/fonts/Bananasplit-oMpz.ttf);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border-radius: 15px;
+}
+
+:root {
+	--olive: #6f730dff;
+	--apple-green: #9ea90fff;
+	--sage: #c5c799ff;
+	--citron: #c0c45aff;
+	--moss-green: #8b9b67ff;
+}
+
+#root {
+	font-family: sans-serif;
+	background: url(./bananatree.jpg) no-repeat center;
+	background-size: cover;
+	border-radius: 0;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+main {
+	background-color: rgba(197, 199, 153, 0.828);
+	padding: 2vh 5vw;
+	min-height: 100vh;
+}

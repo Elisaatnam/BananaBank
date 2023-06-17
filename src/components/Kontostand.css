@@ -1,0 +1,14 @@
+.kontostand {
+	background-color: var(--apple-green);
+	width: 90%;
+	height: 25vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 1vh;
+}
+
+.kontostand p {
+	font-size: 6vw;
+	color: white;
+}
